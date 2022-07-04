@@ -1,0 +1,1 @@
+package com.ds.ms.article;import org.springframework.boot.SpringApplication;import org.springframework.boot.autoconfigure.SpringBootApplication;@SpringBootApplicationpublic class MSArticleApplication {    public static void main(String[] args) {        SpringApplication.run(MSArticleApplication.class, args);    }}
